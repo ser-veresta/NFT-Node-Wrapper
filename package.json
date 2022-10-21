@@ -1,0 +1,7 @@
+{
+  "name": "nftWrapper",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
